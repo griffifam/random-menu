@@ -1,5 +1,10 @@
 # Random Menu Generator
-Create a program that runs from the Terminal that will create a random menu based on several items that you determine.
+
+## At a Glance
+
+- Create a program that runs from the Terminal that will create a random menu based on several items that you determine
+- Individual, [stage 1](https://github.com/Ada-Developers-Academy/pedagogy/blob/master/rule-of-three.md#stage-1) project
+- Due before class, Tuesday Feb 6
 
 ## Baseline
 Come up with the three arrays of ten items each. Each list should be a different type of food or descriptor for that food.
