@@ -1,12 +1,8 @@
-# Random Menu
+# Random Menu Generator
 ## What We're Looking For
 
-|  Feature 	|   Feedback	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+|  Feature 	|   Feedback |
 |---	|---	|
-|  Random Menu of 10 items displayed in the terminal. 	|   	|
-|  Generator pulls one random item from each array to create menu items. 	|   	|
-|	**Baseline**	|	|
-|  Readable code with consistent indentation. 	|   	|
-|   **Extras**	|   	|
-|  	|   	|
-
+|  A random menu of 10 items are displayed in the terminal 	|   	|
+|  The code that generates the random menu pulls one random item from each array to create menu items	|   	|
+|  Readable code with consistent indentation 	|   	|
